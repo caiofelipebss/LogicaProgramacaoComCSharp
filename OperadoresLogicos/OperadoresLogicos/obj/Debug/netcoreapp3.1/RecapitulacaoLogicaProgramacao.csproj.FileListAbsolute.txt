@@ -1,0 +1,13 @@
+D:\ADS\C# Nelio Alves\Projetos\RecapitulacaoLogicaProgramacao\RecapitulacaoLogicaProgramacao\bin\Debug\netcoreapp3.1\RecapitulacaoLogicaProgramacao.exe
+D:\ADS\C# Nelio Alves\Projetos\RecapitulacaoLogicaProgramacao\RecapitulacaoLogicaProgramacao\bin\Debug\netcoreapp3.1\RecapitulacaoLogicaProgramacao.deps.json
+D:\ADS\C# Nelio Alves\Projetos\RecapitulacaoLogicaProgramacao\RecapitulacaoLogicaProgramacao\bin\Debug\netcoreapp3.1\RecapitulacaoLogicaProgramacao.runtimeconfig.json
+D:\ADS\C# Nelio Alves\Projetos\RecapitulacaoLogicaProgramacao\RecapitulacaoLogicaProgramacao\bin\Debug\netcoreapp3.1\RecapitulacaoLogicaProgramacao.runtimeconfig.dev.json
+D:\ADS\C# Nelio Alves\Projetos\RecapitulacaoLogicaProgramacao\RecapitulacaoLogicaProgramacao\bin\Debug\netcoreapp3.1\RecapitulacaoLogicaProgramacao.dll
+D:\ADS\C# Nelio Alves\Projetos\RecapitulacaoLogicaProgramacao\RecapitulacaoLogicaProgramacao\bin\Debug\netcoreapp3.1\RecapitulacaoLogicaProgramacao.pdb
+D:\ADS\C# Nelio Alves\Projetos\RecapitulacaoLogicaProgramacao\RecapitulacaoLogicaProgramacao\obj\Debug\netcoreapp3.1\RecapitulacaoLogicaProgramacao.csprojAssemblyReference.cache
+D:\ADS\C# Nelio Alves\Projetos\RecapitulacaoLogicaProgramacao\RecapitulacaoLogicaProgramacao\obj\Debug\netcoreapp3.1\RecapitulacaoLogicaProgramacao.AssemblyInfoInputs.cache
+D:\ADS\C# Nelio Alves\Projetos\RecapitulacaoLogicaProgramacao\RecapitulacaoLogicaProgramacao\obj\Debug\netcoreapp3.1\RecapitulacaoLogicaProgramacao.AssemblyInfo.cs
+D:\ADS\C# Nelio Alves\Projetos\RecapitulacaoLogicaProgramacao\RecapitulacaoLogicaProgramacao\obj\Debug\netcoreapp3.1\RecapitulacaoLogicaProgramacao.csproj.CoreCompileInputs.cache
+D:\ADS\C# Nelio Alves\Projetos\RecapitulacaoLogicaProgramacao\RecapitulacaoLogicaProgramacao\obj\Debug\netcoreapp3.1\RecapitulacaoLogicaProgramacao.dll
+D:\ADS\C# Nelio Alves\Projetos\RecapitulacaoLogicaProgramacao\RecapitulacaoLogicaProgramacao\obj\Debug\netcoreapp3.1\RecapitulacaoLogicaProgramacao.pdb
+D:\ADS\C# Nelio Alves\Projetos\RecapitulacaoLogicaProgramacao\RecapitulacaoLogicaProgramacao\obj\Debug\netcoreapp3.1\RecapitulacaoLogicaProgramacao.genruntimeconfig.cache

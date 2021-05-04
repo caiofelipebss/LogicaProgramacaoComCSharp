@@ -1,0 +1,13 @@
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\ExemploClasseProduto\ExemploClasseProduto\bin\Debug\netcoreapp3.1\ExemploClasseProduto.exe
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\ExemploClasseProduto\ExemploClasseProduto\bin\Debug\netcoreapp3.1\ExemploClasseProduto.deps.json
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\ExemploClasseProduto\ExemploClasseProduto\bin\Debug\netcoreapp3.1\ExemploClasseProduto.runtimeconfig.json
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\ExemploClasseProduto\ExemploClasseProduto\bin\Debug\netcoreapp3.1\ExemploClasseProduto.runtimeconfig.dev.json
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\ExemploClasseProduto\ExemploClasseProduto\bin\Debug\netcoreapp3.1\ExemploClasseProduto.dll
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\ExemploClasseProduto\ExemploClasseProduto\bin\Debug\netcoreapp3.1\ExemploClasseProduto.pdb
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\ExemploClasseProduto\ExemploClasseProduto\obj\Debug\netcoreapp3.1\ExemploClasseProduto.csprojAssemblyReference.cache
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\ExemploClasseProduto\ExemploClasseProduto\obj\Debug\netcoreapp3.1\ExemploClasseProduto.AssemblyInfoInputs.cache
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\ExemploClasseProduto\ExemploClasseProduto\obj\Debug\netcoreapp3.1\ExemploClasseProduto.AssemblyInfo.cs
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\ExemploClasseProduto\ExemploClasseProduto\obj\Debug\netcoreapp3.1\ExemploClasseProduto.csproj.CoreCompileInputs.cache
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\ExemploClasseProduto\ExemploClasseProduto\obj\Debug\netcoreapp3.1\ExemploClasseProduto.dll
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\ExemploClasseProduto\ExemploClasseProduto\obj\Debug\netcoreapp3.1\ExemploClasseProduto.pdb
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\ExemploClasseProduto\ExemploClasseProduto\obj\Debug\netcoreapp3.1\ExemploClasseProduto.genruntimeconfig.cache

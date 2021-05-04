@@ -1,0 +1,13 @@
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoTriangulo\MetodoTriangulo\bin\Debug\netcoreapp3.1\MetodoTriangulo.exe
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoTriangulo\MetodoTriangulo\bin\Debug\netcoreapp3.1\MetodoTriangulo.deps.json
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoTriangulo\MetodoTriangulo\bin\Debug\netcoreapp3.1\MetodoTriangulo.runtimeconfig.json
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoTriangulo\MetodoTriangulo\bin\Debug\netcoreapp3.1\MetodoTriangulo.runtimeconfig.dev.json
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoTriangulo\MetodoTriangulo\bin\Debug\netcoreapp3.1\MetodoTriangulo.dll
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoTriangulo\MetodoTriangulo\bin\Debug\netcoreapp3.1\MetodoTriangulo.pdb
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoTriangulo\MetodoTriangulo\obj\Debug\netcoreapp3.1\MetodoTriangulo.csprojAssemblyReference.cache
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoTriangulo\MetodoTriangulo\obj\Debug\netcoreapp3.1\MetodoTriangulo.AssemblyInfoInputs.cache
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoTriangulo\MetodoTriangulo\obj\Debug\netcoreapp3.1\MetodoTriangulo.AssemblyInfo.cs
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoTriangulo\MetodoTriangulo\obj\Debug\netcoreapp3.1\MetodoTriangulo.csproj.CoreCompileInputs.cache
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoTriangulo\MetodoTriangulo\obj\Debug\netcoreapp3.1\MetodoTriangulo.dll
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoTriangulo\MetodoTriangulo\obj\Debug\netcoreapp3.1\MetodoTriangulo.pdb
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoTriangulo\MetodoTriangulo\obj\Debug\netcoreapp3.1\MetodoTriangulo.genruntimeconfig.cache

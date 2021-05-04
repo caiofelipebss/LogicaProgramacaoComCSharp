@@ -1,0 +1,13 @@
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.exe
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.deps.json
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.runtimeconfig.json
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.runtimeconfig.dev.json
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.dll
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.pdb
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.csprojAssemblyReference.cache
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.AssemblyInfoInputs.cache
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.AssemblyInfo.cs
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.csproj.CoreCompileInputs.cache
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.dll
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.pdb
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoEstaticoNaPropriaClasse\MetodoEstaticoNaPropriaClasse\bin\Debug\netcoreapp3.1\MetodoEstaticoNaPropriaClasse.exe
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoEstaticoNaPropriaClasse\MetodoEstaticoNaPropriaClasse\bin\Debug\netcoreapp3.1\MetodoEstaticoNaPropriaClasse.deps.json
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoEstaticoNaPropriaClasse\MetodoEstaticoNaPropriaClasse\bin\Debug\netcoreapp3.1\MetodoEstaticoNaPropriaClasse.runtimeconfig.json
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoEstaticoNaPropriaClasse\MetodoEstaticoNaPropriaClasse\bin\Debug\netcoreapp3.1\MetodoEstaticoNaPropriaClasse.runtimeconfig.dev.json
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoEstaticoNaPropriaClasse\MetodoEstaticoNaPropriaClasse\bin\Debug\netcoreapp3.1\MetodoEstaticoNaPropriaClasse.dll
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoEstaticoNaPropriaClasse\MetodoEstaticoNaPropriaClasse\bin\Debug\netcoreapp3.1\MetodoEstaticoNaPropriaClasse.pdb
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoEstaticoNaPropriaClasse\MetodoEstaticoNaPropriaClasse\obj\Debug\netcoreapp3.1\MetodoEstaticoNaPropriaClasse.csprojAssemblyReference.cache
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoEstaticoNaPropriaClasse\MetodoEstaticoNaPropriaClasse\obj\Debug\netcoreapp3.1\MetodoEstaticoNaPropriaClasse.AssemblyInfoInputs.cache
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoEstaticoNaPropriaClasse\MetodoEstaticoNaPropriaClasse\obj\Debug\netcoreapp3.1\MetodoEstaticoNaPropriaClasse.AssemblyInfo.cs
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoEstaticoNaPropriaClasse\MetodoEstaticoNaPropriaClasse\obj\Debug\netcoreapp3.1\MetodoEstaticoNaPropriaClasse.csproj.CoreCompileInputs.cache
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoEstaticoNaPropriaClasse\MetodoEstaticoNaPropriaClasse\obj\Debug\netcoreapp3.1\MetodoEstaticoNaPropriaClasse.dll
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoEstaticoNaPropriaClasse\MetodoEstaticoNaPropriaClasse\obj\Debug\netcoreapp3.1\MetodoEstaticoNaPropriaClasse.pdb
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\MetodoEstaticoNaPropriaClasse\MetodoEstaticoNaPropriaClasse\obj\Debug\netcoreapp3.1\MetodoEstaticoNaPropriaClasse.genruntimeconfig.cache

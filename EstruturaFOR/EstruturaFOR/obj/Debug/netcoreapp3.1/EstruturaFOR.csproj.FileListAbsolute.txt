@@ -1,0 +1,13 @@
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaFOR\EstruturaFOR\bin\Debug\netcoreapp3.1\EstruturaFOR.exe
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaFOR\EstruturaFOR\bin\Debug\netcoreapp3.1\EstruturaFOR.deps.json
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaFOR\EstruturaFOR\bin\Debug\netcoreapp3.1\EstruturaFOR.runtimeconfig.json
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaFOR\EstruturaFOR\bin\Debug\netcoreapp3.1\EstruturaFOR.runtimeconfig.dev.json
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaFOR\EstruturaFOR\bin\Debug\netcoreapp3.1\EstruturaFOR.dll
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaFOR\EstruturaFOR\bin\Debug\netcoreapp3.1\EstruturaFOR.pdb
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaFOR\EstruturaFOR\obj\Debug\netcoreapp3.1\EstruturaFOR.csprojAssemblyReference.cache
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaFOR\EstruturaFOR\obj\Debug\netcoreapp3.1\EstruturaFOR.AssemblyInfoInputs.cache
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaFOR\EstruturaFOR\obj\Debug\netcoreapp3.1\EstruturaFOR.AssemblyInfo.cs
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaFOR\EstruturaFOR\obj\Debug\netcoreapp3.1\EstruturaFOR.csproj.CoreCompileInputs.cache
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaFOR\EstruturaFOR\obj\Debug\netcoreapp3.1\EstruturaFOR.dll
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaFOR\EstruturaFOR\obj\Debug\netcoreapp3.1\EstruturaFOR.pdb
+D:\ADS\C# Nelio Alves\Projetos\Recapitulando Lógica de Programação\EstruturaFOR\EstruturaFOR\obj\Debug\netcoreapp3.1\EstruturaFOR.genruntimeconfig.cache
